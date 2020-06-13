@@ -1,5 +1,5 @@
 # JPMorgan_Chase_Virtual_Internship_file
-Contains Patch files for the task assigned in JPMorgan_Chase_Virtual_Internship.
-Task 1
+Repository Contains Patch files for the task assigned by JPMorgan Chase & Co. Software Engineering Virtual Internship
+#Task 1
 Interface with a stock price data feed
 
